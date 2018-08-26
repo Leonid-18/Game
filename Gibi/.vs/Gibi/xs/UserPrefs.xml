@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{09D20066-6059-0CF5-79A7-2A7B83620FC1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Level_1/Ninja.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Level_2/Monster.cs" Line="11" Column="51" />
+      <File FileName="Assets/Scripts/Level_2/MonsterMove.cs" Line="11" Column="5" />
+      <File FileName="Assets/Scripts/Level_2/ShootableMonster.cs" Line="30" Column="39" />
+      <File FileName="Assets/Scripts/Level_1/Ninja.cs" Line="5" Column="1" />
+      <File FileName="Assets/Scripts/Level_1/Balls.cs" Line="7" Column="5" />
+      <File FileName="Assets/Scripts/Level_1/Fireball.cs" Line="26" Column="23" />
+      <File FileName="Assets/Scripts/Level_1/Button.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Level_2/Button_2.cs" Line="26" Column="51" />
+      <File FileName="Assets/Scripts/Level_1/dieColider.cs" Line="15" Column="13" />
+      <File FileName="Assets/Scripts/Level_2/dieCollider_2.cs" Line="19" Column="9" />
+      <File FileName="Assets/Scripts/Level_1/Unit.cs" Line="13" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Gibi PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

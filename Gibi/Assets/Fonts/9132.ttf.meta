@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 4bf1a4867ac3d4cc1b362c2b68c19ba9
+timeCreated: 1520244878
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DOCKER
+  fontNames:
+  - DOCKER
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0b1efb160a67841a28751dd9f7aeb404, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
