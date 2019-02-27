@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{D2562AEA-D625-3E26-8F3F-E6D79F1E0495}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UpdateSprite.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Solitaire.cs" Line="51" Column="28" />
+      <File FileName="Assets/Scripts/UserInput.cs" Line="56" Column="21" />
+      <File FileName="Assets/Scripts/UpdateSprite.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.New_220Unity_220Project_220_2282_229 PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
